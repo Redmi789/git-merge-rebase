@@ -5,6 +5,6 @@ class LoginUiWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(children: [Text('Đăng nhập')]);
+    return Column(children: [Text('Đăng nhập'), Text('Đăng ký')]);
   }
 }
