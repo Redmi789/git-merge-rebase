@@ -12,7 +12,11 @@ class LoginUiWidget extends StatelessWidget {
         Text('Quên mật khẩu'),
         Text('Yes'),
         Text('No'),
+<<<<<<< .merge_file_jgXuCn
         Text('You are comeback'),
+=======
+        Text('Yes'),
+>>>>>>> .merge_file_15IAG7
       ],
     );
   }
