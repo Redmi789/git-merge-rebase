@@ -13,7 +13,9 @@ class LoginUiWidget extends StatelessWidget {
         Text('Yes'),
         Text('No'),
         Text('Yes'),
-        Text('Quên mật khẩu'),
+        Text('Đăng ký'),
+        Text('Sao lưu'),
+        Text('Sao lưu2'),
       ],
     );
   }
