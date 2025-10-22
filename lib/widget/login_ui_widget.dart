@@ -20,6 +20,8 @@ class LoginUiWidget extends StatelessWidget {
         Text('Sao lưu4'),
         Text('Sao lưu5'),
         Text('Sao lưu 7'),
+        Text('Sao lưu 8'),
+        Text('Sao lưu 9'),
       ],
     );
   }
